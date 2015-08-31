@@ -1,0 +1,4 @@
+Documentation set was installed to Xcode!
+
+Path: /Users/corotata/Library/Developer/Shared/Documentation/DocSets/com.corotata.reactivecocoa.ReactiveCocoa.docset
+Time: 2015-08-25 03:25:44 +0000
